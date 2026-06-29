@@ -1,4 +1,4 @@
-# Core concepts
+# Key concepts
 
 This page defines the main Atomic Workspace terms normal users see in the product.
 

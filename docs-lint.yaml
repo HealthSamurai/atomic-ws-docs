@@ -6,3 +6,5 @@ checks:
   warn_only:
     - title-mismatch
     - absolute-links
+    # The root README is linked by the docs sidebar product title, not by SUMMARY.md.
+    - summary-sync

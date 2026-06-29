@@ -44,4 +44,4 @@ These apps are built around healthcare data and clinical workflows. The normal o
 
 Start with [Create your first project](get-started.md).
 
-For terminology, see [Core concepts](concepts.md).
+For terminology, see [Key concepts](concepts.md).

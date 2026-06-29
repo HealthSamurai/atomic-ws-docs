@@ -105,4 +105,4 @@ After review, put the project into one of these states:
 
 Atomic Workspace helps you get to that decision faster. It does not remove the decision.
 
-For term definitions, see [Core concepts](concepts.md). To improve the next iteration, go back to [Work with an agent](agent-workflow.md).
+For term definitions, see [Key concepts](concepts.md). To improve the next iteration, go back to [Work with an agent](agent-workflow.md).
