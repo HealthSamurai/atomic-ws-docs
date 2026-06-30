@@ -1,47 +1,26 @@
 # Atomic Workspace
 
-Atomic Workspace helps clinical teams turn healthcare workflow ideas into working application prototypes.
+Atomic Workspace helps clinical teams turn healthcare workflow ideas into working app projects.
 
-It is built for people who understand the clinical or operational problem: clinicians, care teams, clinical analysts, researchers, product owners, and healthcare IT teams. You do not need to start with a software specification. You start with the problem you want to solve.
+It is for people who understand the care problem: clinicians, care teams, clinical analysts, researchers, managers, and healthcare IT reviewers. You do not need to begin with a software specification. Begin with the workflow, patient group, decision, or care gap you want to improve.
 
-In Atomic Workspace, a project gives your team one shared place to:
+A project gives your team one place to describe an idea, answer questions, build a working app, try provider and patient views, and improve the app step by step.
 
-- describe a clinical application idea
-- refine requirements with an AI agent
-- build a working app in a FHIR-native sandbox
-- preview provider and patient views
-- review the app, files, services, skills, and healthcare data
-- iterate before a production decision is made
+![Atomic Workspace new project screen with healthcare app templates](../assets/screenshots/new-project-templates.avif)
 
-Atomic Workspace is not a replacement for clinical governance, security review, or production approval. It shortens the path from idea to validated working software so those decisions can be made with something concrete in front of the team.
+## Where To Start
 
-## What you can build
+- Use a tutorial when you want to build an example app from start to finish.
+- Use a how-to guide when you want to add something useful to an app.
+- Use explanation pages when you want to understand how the product works.
+- Use reference pages when you need a list of templates or terms.
 
-Atomic Workspace is best suited for healthcare apps that are too specific or too urgent to wait in a general backlog:
+Start with [Build your first clinical app](tutorials/first-project.md).
 
-- patient intake flows
-- vital signs tracking
-- clinical data viewers
-- clinical decision support modules
-- patient-reported outcome follow-up
-- care team workflow tools
-- clinical calculators
-- analytics and quality dashboards
+## Browse By Need
 
-These apps are built around healthcare data and clinical workflows. The normal output is a working application that can be reviewed in the workspace and prepared for SMART on FHIR deployment when the team is ready.
-
-## How the work flows
-
-1. You create a project from a prompt or a template.
-2. The agent asks questions to clarify the intended users, workflow, data, rules, and success criteria.
-3. The agent writes a product vision for review.
-4. You approve or correct the direction.
-5. The agent builds the application.
-6. You test the result in the project preview.
-7. The team repeats the loop until the app is ready for the next review step.
-
-## Where to start
-
-Start with [Create your first project](get-started.md).
-
-For terminology, see [Key concepts](concepts.md).
+- Learn the first workflow in [Build your first clinical app](tutorials/first-project.md).
+- Follow a concrete build path in [Build a patient intake app](tutorials/patient-intake.md), [Build a vitals tracker](tutorials/vitals-tracker.md), or [Build a PROMs follow-up app](tutorials/proms-follow-up.md).
+- Add app features with [Create forms](how-to/create-forms.md), [Create care workflows](how-to/create-care-workflows.md), [Create copilots](how-to/create-copilots.md), [Create voice agents](how-to/create-voice-agents.md), or [Create analytics and charts](how-to/create-analytics-and-charts.md).
+- Understand the product in [How Atomic Workspace works](explanation/how-atomic-workspace-works.md) and [App patterns](explanation/app-patterns.md).
+- Look up facts in the [Template catalog](reference/template-catalog.md) or [Glossary](reference/glossary.md).
